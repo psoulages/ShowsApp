@@ -1,0 +1,9 @@
+var React = require ('react');
+var ReactDom = require ('react-dom');
+var Show = require ('./show');
+ReactDom.render (
+<how />,
+
+
+  document.getElementById('root')
+);
